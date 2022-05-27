@@ -1,0 +1,6 @@
+C:\Users\opola\OneDrive\Masaüstü\ce100-hw5-omer-polat\ce100-hw5-sln\ce100-hw5-algo-lib-cs\bin\Debug\ce100-hw5-algo-lib-cs.dll
+C:\Users\opola\OneDrive\Masaüstü\ce100-hw5-omer-polat\ce100-hw5-sln\ce100-hw5-algo-lib-cs\bin\Debug\ce100-hw5-algo-lib-cs.pdb
+C:\Users\opola\OneDrive\Masaüstü\ce100-hw5-omer-polat\ce100-hw5-sln\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\opola\OneDrive\Masaüstü\ce100-hw5-omer-polat\ce100-hw5-sln\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\opola\OneDrive\Masaüstü\ce100-hw5-omer-polat\ce100-hw5-sln\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.dll
+C:\Users\opola\OneDrive\Masaüstü\ce100-hw5-omer-polat\ce100-hw5-sln\ce100-hw5-algo-lib-cs\obj\Debug\ce100-hw5-algo-lib-cs.pdb
